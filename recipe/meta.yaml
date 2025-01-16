@@ -47,7 +47,8 @@ requirements:
     - validators >=0.18.2
     - xarray >=2023.12.0
     - zarr >=2.6.1
-    - spatialdata >=0.0.15
+    - spatialdata >=0.2.5
+    - ome-zarr >=0.8.4
   run_constrained:
     - napari[pyqt5] ==0.4.15
     - pydantic ==1.10.13
